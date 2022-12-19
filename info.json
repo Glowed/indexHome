@@ -1,0 +1,210 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://ximu.studio/portal",
+            "path": "index.html",
+            "saved": true,
+            "size": 3643,
+            "children": [
+                {
+                    "url": "https://ximu.studio/ximu.svg",
+                    "path": "img/ximu.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/imgs/loading.svg",
+                    "path": "img/loading.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/ximu_black.svg",
+                    "path": "img/ximu_black.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+                    "path": "js/polyfills-c67a75d1b6f99dc8.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/webpack-2c644d3580cecc35.js",
+                    "path": "js/webpack-2c644d3580cecc35.js",
+                    "saved": true,
+                    "size": 1605,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/framework-c192b8abc8a6888f.js",
+                    "path": "js/framework-c192b8abc8a6888f.js",
+                    "saved": true,
+                    "size": 141505,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/main-b355b9c39b50a4eb.js",
+                    "path": "js/main-b355b9c39b50a4eb.js",
+                    "saved": true,
+                    "size": 106757,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/pages/_app-149ed43716680c5c.js",
+                    "path": "js/_app-149ed43716680c5c.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/fb7d5399-e557afcdd06796ee.js",
+                    "path": "js/fb7d5399-e557afcdd06796ee.js",
+                    "saved": true,
+                    "size": 600211,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/a908dc70-fa3e5d7bce340f95.js",
+                    "path": "js/a908dc70-fa3e5d7bce340f95.js",
+                    "saved": true,
+                    "size": 359015,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/309-54a24973130eb88a.js",
+                    "path": "js/309-54a24973130eb88a.js",
+                    "saved": true,
+                    "size": 127985,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/109-283d60c3e7078ce8.js",
+                    "path": "js/109-283d60c3e7078ce8.js",
+                    "saved": true,
+                    "size": 132479,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/chunks/pages/portal-a4d9905cf1a0c0b6.js",
+                    "path": "js/portal-a4d9905cf1a0c0b6.js",
+                    "saved": true,
+                    "size": 25640,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/2CYZ02PAybR4cK_ZXinkG/_buildManifest.js",
+                    "path": "js/_buildManifest.js",
+                    "saved": true,
+                    "size": 1928,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/2CYZ02PAybR4cK_ZXinkG/_ssgManifest.js",
+                    "path": "js/_ssgManifest.js",
+                    "saved": true,
+                    "size": 76,
+                    "children": []
+                },
+                {
+                    "url": "https://ximu.studio/_next/static/css/b1fb8d2e9d927cab.css",
+                    "path": "css/b1fb8d2e9d927cab.css",
+                    "saved": true,
+                    "size": 6063,
+                    "children": [
+                        {
+                            "url": "https://img.ximu.studio/ximu%2Ffonts%2FRighteous-Regular.ttf",
+                            "path": "fonts/ximu%2Ffonts%2FRighteous-Regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://img.ximu.studio/ximu%2Ffonts%2FPoppins-Bold.ttf",
+                            "path": "fonts/ximu%2Ffonts%2FPoppins-Bold.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://img.ximu.studio/ximu%2Ffonts%2FPoppins-Light.ttf",
+                            "path": "fonts/ximu%2Ffonts%2FPoppins-Light.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://ximu.studio/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "ximu-studio-m7afi1x7",
+    "info": {
+        "remark": [],
+        "title": "Portal",
+        "domain": "ximu.studio",
+        "origin": "https://ximu.studio",
+        "ip": "43.153.184.126",
+        "main": "index.html",
+        "url": "https://ximu.studio/portal",
+        "totalSize": "1.51 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://ximu.studio/portal",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://ximu.studio/portal",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Mon, 19 Dec 2022 06:31:20 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "content-length": "3854",
+                "connection": "close",
+                "vary": "Accept-Encoding, Accept-Encoding",
+                "x-powered-by": "Next.js",
+                "etag": "\"je194mjvla2z2\"",
+                "x-cache": "MISS"
+            }
+        },
+        "time": {
+            "start": "2022-12-19T06:31:20.636Z",
+            "end": "2022-12-19T06:31:22.701Z"
+        }
+    },
+    "options": {
+        "url": "https://ximu.studio/portal",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
